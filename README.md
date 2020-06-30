@@ -12,7 +12,7 @@ Each point has 4 features, (x1,x2,x3,x4).
 For each of the two implementations, split the dataset into two datasets: training and testing datasets. Used the training dataset to develop the logistic regression model, then validate the model using the testing dataset. 
 
 ## Output:
-1. W vector for each of the three classes
+1. W vector for each of the three classes.
 2. Plot of the cost as a function of the number of iterations, while computing the W vector for each class.
 3. The accuracy in the predictions for each of the three binary classifiers.
 4. The accuracy of the overall model, in predicting the testing dataset.
